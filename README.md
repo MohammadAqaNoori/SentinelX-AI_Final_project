@@ -1,5 +1,5 @@
 # SentinelX-AI_Final_project
-## SentinelX: a Real-Time 3D Air Defense Simulator – 
+## SentinelX: a Real-Time 3D Air Defense Simulator 
 a fully interactive Python application that detects, prioritizes, and intercepts aerial threats using AI. 
 
 ## Key Highlights 🚀🛡️:
